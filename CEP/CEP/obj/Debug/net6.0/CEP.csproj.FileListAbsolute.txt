@@ -1,0 +1,15 @@
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\CEP.exe
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\CEP.deps.json
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\CEP.runtimeconfig.json
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\CEP.dll
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\ref\CEP.dll
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\bin\Debug\net6.0\CEP.pdb
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.csproj.AssemblyReference.cache
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.AssemblyInfoInputs.cache
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.AssemblyInfo.cs
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.csproj.CoreCompileInputs.cache
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.dll
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\ref\CEP.dll
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.pdb
+C:\Users\Haroldo\source\repos\DotNetStudyng\CEP\CEP\obj\Debug\net6.0\CEP.genruntimeconfig.cache
