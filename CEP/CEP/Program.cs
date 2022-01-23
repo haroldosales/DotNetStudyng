@@ -1,9 +1,11 @@
 ﻿using CEP;
 using System.Text.Json;
 
-string cep = "";
-cep = Console.ReadLine();
+Console.WriteLine("Digite seu Cep: ") ;
 
+string cep = Console.ReadLine();
+
+ 
 using (var client = new HttpClient())
 {
     client.BaseAddress = new Uri("https://viacep.com.br/");
@@ -14,5 +16,7 @@ using (var client = new HttpClient())
 
     var end = JsonSerializer.Deserialize<Endereco>(response.Content.ReadAsStringAsync().Result);
 
-    Console.WriteLine(end.bairro + ", "+end.localidade);
+   Console.WriteLine(end.bairro + "," + end.localidade+ "," + end.complemento+ "," +end.ddd + "," +end.gia + "," + end.siafi);
+    
+  
 }
