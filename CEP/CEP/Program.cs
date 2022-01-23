@@ -3,7 +3,7 @@ using System.Text.Json;
 
 Console.WriteLine("Digite seu Cep: ") ;
 
-string cep = Console.ReadLine();
+string? cep = Console.ReadLine();
 
  
 using (var client = new HttpClient())
