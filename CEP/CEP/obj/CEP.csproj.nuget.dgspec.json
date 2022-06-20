@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/haroldo/Documentos/Git/DotNetStudyng/CEP/CEP/CEP.csproj": {}
+    "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj": {}
   },
   "projects": {
-    "/home/haroldo/Documentos/Git/DotNetStudyng/CEP/CEP/CEP.csproj": {
+    "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/haroldo/Documentos/Git/DotNetStudyng/CEP/CEP/CEP.csproj",
+        "projectUniqueName": "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj",
         "projectName": "CEP",
-        "projectPath": "/home/haroldo/Documentos/Git/DotNetStudyng/CEP/CEP/CEP.csproj",
+        "projectPath": "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj",
         "packagesPath": "/home/haroldo/.nuget/packages/",
-        "outputPath": "/home/haroldo/Documentos/Git/DotNetStudyng/CEP/CEP/obj/",
+        "outputPath": "/home/haroldo/git/DotNetStudyng/CEP/CEP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/haroldo/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

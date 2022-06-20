@@ -16,7 +16,7 @@ using (var client = new HttpClient())
 
     var end = JsonSerializer.Deserialize<Endereco>(response.Content.ReadAsStringAsync().Result);
 
-   Console.WriteLine(end.bairro + "," + end.localidade+ "," + end.complemento+ "," +end.ddd + "," +end.gia + "," + end.siafi);
+   Console.WriteLine(end.cep+" ,"+ end.bairro + "," + end.localidade+ "," + end.complemento+ "," +end.ddd + "," +end.gia + "," + end.siafi);
     
   
 }
