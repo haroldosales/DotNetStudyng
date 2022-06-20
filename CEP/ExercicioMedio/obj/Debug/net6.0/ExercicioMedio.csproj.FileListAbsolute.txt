@@ -1,0 +1,15 @@
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.csproj.AssemblyReference.cache
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.AssemblyInfoInputs.cache
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.AssemblyInfo.cs
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.csproj.CoreCompileInputs.cache
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ExercicioMedio
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ExercicioMedio.deps.json
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ExercicioMedio.runtimeconfig.json
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ExercicioMedio.dll
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ref/ExercicioMedio.dll
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/bin/Debug/net6.0/ExercicioMedio.pdb
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.dll
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ref/ExercicioMedio.dll
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.pdb
+/home/haroldo/git/DotNetStudyng/CEP/ExercicioMedio/obj/Debug/net6.0/ExercicioMedio.genruntimeconfig.cache
