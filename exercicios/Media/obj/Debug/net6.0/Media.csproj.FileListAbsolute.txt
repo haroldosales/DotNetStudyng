@@ -1,0 +1,15 @@
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/Media
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/Media.deps.json
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/Media.runtimeconfig.json
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/Media.dll
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/ref/Media.dll
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/bin/Debug/net6.0/Media.pdb
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.csproj.AssemblyReference.cache
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.AssemblyInfoInputs.cache
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.AssemblyInfo.cs
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.csproj.CoreCompileInputs.cache
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.dll
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/ref/Media.dll
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.pdb
+/home/haroldo/dev/DotNetStudyng/exercicios/Media/obj/Debug/net6.0/Media.genruntimeconfig.cache
