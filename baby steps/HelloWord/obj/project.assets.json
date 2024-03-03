@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/haroldo/.nuget/packages/": {}
+    "C:\\Users\\harol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/haroldo/Documents/coding/DotNetStudyng/baby steps/HelloWord/HelloWord.csproj",
+      "projectUniqueName": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\baby steps\\HelloWord\\HelloWord.csproj",
       "projectName": "HelloWord",
-      "projectPath": "/home/haroldo/Documents/coding/DotNetStudyng/baby steps/HelloWord/HelloWord.csproj",
-      "packagesPath": "/home/haroldo/.nuget/packages/",
-      "outputPath": "/home/haroldo/Documents/coding/DotNetStudyng/baby steps/HelloWord/obj/",
+      "projectPath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\baby steps\\HelloWord\\HelloWord.csproj",
+      "packagesPath": "C:\\Users\\harol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\baby steps\\HelloWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/haroldo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\harol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

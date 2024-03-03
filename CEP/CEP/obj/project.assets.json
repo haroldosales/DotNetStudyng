@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/haroldo/.nuget/packages/": {}
+    "C:\\Users\\harol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj",
+      "projectUniqueName": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\CEP\\CEP\\CEP.csproj",
       "projectName": "CEP",
-      "projectPath": "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj",
-      "packagesPath": "/home/haroldo/.nuget/packages/",
-      "outputPath": "/home/haroldo/git/DotNetStudyng/CEP/CEP/obj/",
+      "projectPath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\CEP\\CEP\\CEP.csproj",
+      "packagesPath": "C:\\Users\\harol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\CEP\\CEP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/haroldo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\harol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -49,16 +56,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

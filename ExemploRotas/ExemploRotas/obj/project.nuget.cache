@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GI0jYvxJ0S277D3cS4I+x3tUvUCJuwvlfSsA90nlGKdjHWYG4QiULkz0WPOfq8R+x3hLxqIUWBfBr7IvwW28yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\ExemploRotas\\ExemploRotas\\ExemploRotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

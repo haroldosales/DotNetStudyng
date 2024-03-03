@@ -1,4 +1,4 @@
 
 ## DotNetStudyng
-### desenvolvimento  em dotnet usando linux com dotnet-core
+### desenvolvimento  em dotnet 
  

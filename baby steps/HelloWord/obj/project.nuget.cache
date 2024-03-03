@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ioma+4c3X3SZZLGUNc1qgG92B/u7SkF4SdqjQ9xxrsCp8fZAa4aOWYyLW13gOL4bLFoEsKIAycZx7F7wlQkOgQ==",
+  "dgSpecHash": "zXnlWSnTFeR+V95TYcKj5JB0+91tWoJ4Y+y+raTuQYe0Q4F/hWEplaFJcwwZkXp7d7ulRL1GLg2nAeySR/rk4A==",
   "success": true,
-  "projectFilePath": "/home/haroldo/Documents/coding/DotNetStudyng/baby steps/HelloWord/HelloWord.csproj",
+  "projectFilePath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\baby steps\\HelloWord\\HelloWord.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

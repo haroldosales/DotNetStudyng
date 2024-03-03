@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G5PJ7CoQ5RDns5EpHkXEHtT0NRe0B+dnunO3KE28rUkXJmQm+3jQxqsAVoLOPNUy1kOxExF8cRP0NoG3FYOULw==",
+  "dgSpecHash": "71haRmxrQ2J4HLvbUIybs4HkfxV9cojzABv1RuplGwnnmtd6SsA/En/8QH8BW5q+AyzmxQU2EjHlYhng82SFgA==",
   "success": true,
-  "projectFilePath": "/home/haroldo/git/DotNetStudyng/CEP/CEP/CEP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\CEP\\CEP\\CEP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\harol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

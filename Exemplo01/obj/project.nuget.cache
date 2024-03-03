@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUxVjqXcngrGa983YzthveC1jYXHA7LHb28Z/bprwvKJaiUv+ZZ4U6pcdR7N/fatXfdu7nQ7WeAviJ946/KGIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harol\\source\\repos\\haroldosales\\DotNetStudyng\\Exemplo01\\Exemplo01.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harol\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
